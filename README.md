@@ -37,7 +37,7 @@ This task has 2 parts to be extended - Table and Detail screens. The requirement
 - Create a screen with a table using components from [ASAB WebUI Components Library](https://github.com/TeskaLabs/asab-webui-components-lib). Hint: use `DataTable2` (explore the code, it will help you to understand the usage).
 - The table have to display all the `/data` content with one exception - `id` should be displayed on hover over `username`.
 - The table by default use params, therefore there should be a pagination (you need to ensure a proper request to the `/data` endpoint, `DataTable2` has pagination by default).
-- For timestamp response values use apropriate components from [ASAB WebUI Components Library](https://github.com/TeskaLabs/asab-webui-components-lib)
+- For timestamp values use apropriate components from [ASAB WebUI Components Library](https://github.com/TeskaLabs/asab-webui-components-lib)
 - Add navigation to Detail screen by the `id`.
 
 ### Detail screen
