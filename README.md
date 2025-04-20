@@ -1,4 +1,4 @@
-# TeskaLabs Training App
+# TeskaLabs Training UI App
 
 This is a training task for developers who like challenges :)
 
@@ -56,7 +56,7 @@ This task has 2 parts to be extended - Table and Detail screens. The requirement
 
 ## The expected output
 
-- Send the link to your public github/github where the TeskaLabs Training App is being cloned and extended. We will go through the code.
+- Send the link to your public github/github where the TeskaLabs Training UI App is being cloned and extended. We will go through the code.
 
 - Send the link to the deployed application you have extended. By doing this we can examine its functionality.
 
