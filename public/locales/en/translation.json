@@ -82,5 +82,9 @@
 		"Fullscreen": "Fullscreen",
 		"Exit Fullscreen": "Exit Fullscreen",
 		"Invalid Date": "Invalid Date"
+	},
+
+	"Training": {
+		"Hello, there is nothing here yet!": "Hello, there is nothing here yet!"
 	}
 }

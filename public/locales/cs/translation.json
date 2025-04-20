@@ -82,5 +82,9 @@
 		"Fullscreen": "Celá obrazovka",
 		"Exit Fullscreen": "Opustit celou obrazovku",
 		"Invalid Date": "Nesprávné datum"
+	},
+
+	"Training": {
+		"Hello, there is nothing here yet!": "Zdravíčko, zatím tu nic není!"
 	}
 }

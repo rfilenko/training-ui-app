@@ -1,11 +1,13 @@
 import React from 'react';
 import { Container } from 'reactstrap';
+import { useTranslation } from 'react-i18next';
 
 export function TableScreen(props) {
+	const { t } = useTranslation();
 
 	return (
 		<Container className='h-100'>
-			Hello, there is nothing here yet!
+			{t('Training|Hello, there is nothing here yet!')}
 		</Container>
 	);
 }
