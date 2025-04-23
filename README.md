@@ -28,7 +28,7 @@ pnpm build
 
 ## The task
 
-This task has 2 parts to be extended - Table and Detail screens. The requirement is to extend the Table screen, create a Detail screen and to build & deploy the application that we can examine its functionality.
+This task has 2 parts to be extended - Table and Detail screens. The requirement is to extend the Table screen and to create a Detail screen. A plus points are for building & deploying the application that we can examine its functionality.
 
 ### Table screen
 
