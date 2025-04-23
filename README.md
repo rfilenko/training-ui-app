@@ -53,11 +53,10 @@ This task has 2 parts to be extended - Table and Detail screens. The requirement
 - Add translations to the Table header and Detail card
 - Use bootstrap icons for Table header and Detail card
 - Implement navigation back from Detail screen to Table screen
+- Build & deploy the application (provide the functional link)
 
 ## The expected output
 
 - Send the link to your public github/github where the TeskaLabs Training UI App is being cloned and extended. We will go through the code.
-
-- Send the link to the deployed application you have extended. By doing this we can examine its functionality.
 
 - Did you complete this task? Send the result (links) to [frantisek.pesek@teskalabs.com](mailto:frantisek.pesek@teskalabs.com)
