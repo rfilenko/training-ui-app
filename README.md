@@ -57,6 +57,6 @@ This task has 2 parts to be extended - Table and Detail screens. The requirement
 
 ## The expected output
 
-- Send the link to your public github/github where the TeskaLabs Training UI App is being cloned and extended. We will go through the code.
+- Send the link to your public github/gitlab where the TeskaLabs Training UI App is being cloned and extended. We will go through the code.
 
 - Did you complete this task? Send the result (links) to [frantisek.pesek@teskalabs.com](mailto:frantisek.pesek@teskalabs.com)
