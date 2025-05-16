@@ -13,6 +13,24 @@
 		"Vendor": "Výrobce"
 	},
 
+	"DetailScreen": {
+		"Back to users table": "Zpět na tabulku uživatelů",
+		"Retrieving user data...": "Načítání dat uživatele...",
+		"Error: ": "Chyba: "
+	},
+
+	"TableScreen": {
+		"Total users count": "Celkový počet uživatelů",
+		"No users found": "Žádní uživatelé nenalezeni",
+		"Username": "Uživatelské jméno",
+		"Email": "E-mail",
+		"Created": "Vytvořeno",
+		"Last sign in": "Poslední přihlášení",
+		"Address": "Adresa",
+		"Page": "Stránky",
+		"of": "z"
+	},
+
 	"ASABApplicationContainer": {
 		"Service URL is undefined, please check service paths passed to axios": "URL servicy není definována, prosím zkontrolujte nastavení cest servis předávaných axiosu",
 		"WebSocket URL is undefined, please check service and subpath passed to WebSocket": "WebSocket URL není definována, prosím zkontrolujte nastavení servis a dílčích cest předávaných WebSocketu",

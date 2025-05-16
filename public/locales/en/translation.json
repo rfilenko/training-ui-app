@@ -13,6 +13,24 @@
 		"Vendor": "Vendor"
 	},
 
+	"DetailScreen": {
+		"Back to users table": "Back to users table",
+		"Retrieving user data...": "Retrieving user data...",
+		"Error: ": "Error: "
+	},
+
+	"TableScreen": {
+		"Total users count": "Total users count",
+		"No users found": "No users found",
+		"Username": "Username",
+		"Email": "Email",
+		"Created": "Created",
+		"Last sign in": "Last sign in",
+		"Address": "Address",
+		"Page": "Page",
+		"of": "of"
+	},
+
 	"ASABApplicationContainer": {
 		"Service URL is undefined, please check service paths passed to axios": "Service URL is undefined, please check service paths passed to axios",
 		"WebSocket URL is undefined, please check service and subpath passed to WebSocket": "WebSocket URL is undefined, please check service and subpath passed to WebSocket",
